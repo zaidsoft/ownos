@@ -10,7 +10,7 @@ Before starting the build/create process you need to prepare the environment.
 You need livecd-tools package and qemu/kvm tools (for testing newly built iso):
 
 ````
-yum install livecd-tools qemu 
+yum install createrepo livecd-tools qemu -y
 ```
 
 
