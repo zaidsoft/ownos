@@ -1,0 +1,56 @@
+
+#---------------------------------------
+# -- (Player)
+#following from main repo
+gimp
+gimp-help
+inkscape
+
+
+
+
+#---------------------------------------
+# -- Power User
+wget
+mc
+nc
+socat
+strace
+sysstat
+dstat
+psacct
+hdparm
+htop
+iftop
+atop
+iptraf
+mtr
+jwhois
+mutt
+elinks
+tmux
+screen
+x2goclient
+transmission
+
+
+
+#--- (DevOps)
+@virtualization-client --optional
+@technical-writing
+@security-tools --optional
+@print-client
+@performance
+java-1.8.0-openjdk
+system-switch-java
+@graphics
+@debugging
+@development --optional
+@graphical-admin-tools
+@remote-desktop-clients --optional
+@databases --optional
+@system-management --optional
+@virtualization --optional
+@network-tools --optional
+wireshark-gnome
+libguestfs-java

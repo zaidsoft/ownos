@@ -1,0 +1,4 @@
+Misc packages useful for you that you want included in the LiveCD should be present/downloaded here at the time of LiveCD creation.
+
+You also need to run createrepo as described in README.
+
