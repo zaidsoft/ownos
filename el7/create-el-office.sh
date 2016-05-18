@@ -1,4 +1,4 @@
-B=/d/ownos
+B=/d/ownos/el7
 livecd-creator --verbose \
 --config=$B/el7-office.ks \
 --title='Enterprise Linux v7' \
