@@ -17,7 +17,7 @@ services --enabled=NetworkManager --disabled=network,sshd
 rootpw --iscrypted !PUT_ENC_PASSWORD_HERE
 
 #repo --name=base --baseurl=file:///ownos/pkgs/el7.1 --excludepkgs=grubby
-repo --name=misc --baseurl=file:///d/ownos/pkgs/misc
+repo --name=misc --baseurl=file:///d/ownos/el7/pkgs/misc
 
 repo --name=base1 --baseurl=http://mirror.centos.org/centos/7/os/x86_64/ --excludepkgs=grubby
 repo --name=grubby --baseurl=http://vault.centos.org/7.0.1406/os/x86_64/ --includepkgs=grubby
