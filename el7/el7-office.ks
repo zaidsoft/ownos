@@ -68,7 +68,9 @@ ntfsprogs
 #remmina
 
 
-
+lohit-devanagari-fonts
+m17n-contrib-extras
+ibus-typing-booster
 
 
 
