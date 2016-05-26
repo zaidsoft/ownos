@@ -36,7 +36,6 @@ repo --name=epel2 --baseurl=http://ftp.riken.jp/Linux/fedora/epel/7/x86_64/
 @dial-up
 @directory-client
 @fonts
-@mate-desktop
 @guest-agents
 @guest-desktop-agents
 @input-methods
@@ -50,6 +49,13 @@ repo --name=epel2 --baseurl=http://ftp.riken.jp/Linux/fedora/epel/7/x86_64/
 @office-suite
 @gnome-apps
 
+
+#-- gui env
+@mate-desktop
+caja-share
+caja-image-converter
+
+%include /d/ownos/el7/pro.ks
 
 
 # -- By ZS (Office)
